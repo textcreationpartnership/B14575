@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>E. B. M. Commune Concilium tentum in Camera Guildhald, Ciuit. London, tertio die Octobris, anno regni Domini nostri Iacobi, Dei gratia, Angliæ, Franciæ, &amp; Hiberniæ, regis fidei defensoris, &amp;c. vicesimo, &amp; Scotiæ quinquagesimo sexto. ... Whereas Blackwell-Hall anciently hath beene, and is a common market place, principally instituted and ordained for clothiers, ...</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14575</idno><idno type="EEBO-CITATION">99892647</idno>
+  <idno type="VID">185518</idno>
+  <idno type="EEBO-PROQUEST">2269047063</idno>
+  
+            <idno type="STC">STC 16728.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[65]</idno>
+            <idno type="STC">ESTC S123820</idno>
+            <idno type="PROQUEST">ocm99892647</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892647e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185518)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>E. B. M. Commune Concilium tentum in Camera Guildhald, Ciuit. London, tertio die Octobris, anno regni Domini nostri Iacobi, Dei gratia, Angliæ, Franciæ, &amp; Hiberniæ, regis fidei defensoris, &amp;c. vicesimo, &amp; Scotiæ quinquagesimo sexto. ... Whereas Blackwell-Hall anciently hath beene, and is a common market place, principally instituted and ordained for clothiers, ...</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Iaggard, printer to the Honourable Citie of London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1622]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E B. M. = Edward Barkham, Mayor.</note>
+                  <note>Caption title.</note>
+                  <note>Publication date from STC (2nd ed.)</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clothing trade --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185518:1"/>
+            <pb facs="tcp:185518:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+               </figure> Commune Concilium tentum in Camera Guild<g ref="char:EOLhyphen"/>hald, Ciuit. London, tertio die Octobris, Anno Regni Domini nostri Iacobi, Dei gratia, Angliae, Franciae, &amp; Hiberniae, Regis fidei defensoris, &amp;c. vicesimo, &amp; Scotiae quinquagesimo sexto. Coram Edwardo Barkham Milite, Maiore Ciuitat. Lon<g ref="char:EOLhyphen"/>don, Petro Proby Maiore electo eiusdem Ciuitatis, Heneagio Finch Armigero, Recordatore Ciuitat. praedict. Thoma Bennet milite, Thoma Lowe milite, Willielmo Cokaine milite, Martino Lumley, Willielmo Gore, Cutberto Hacket, Richardo Herne, Ricardo Deane, Iacobo Cambell, Edwardo Allen, Roberto Ducie, Georgio Whitmore &amp; Nicholao. Rainton Alder<g ref="char:EOLhyphen"/>mannis ac Iohanne Hodges Aldermanno, &amp; Humfrido Hamford milite &amp; Aldermanno dicte Ciuitat. Nec non Maiore parte Communiariorum eiusdem Ciuit. existent, assemblat. &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Blackwell-Hall anciently hath beene, and is</hi> a Common Market place, principally instituted and ordained for Clothiers, thither to bring, pitch, put to sale, and sell their Clothes, and the Clothyer by him<g ref="char:EOLhyphen"/>selfe or his houshold seruant heeretofore, hath vsed to make his owne sales to the Merchant or Draper, to his profit and good content. But now of late diuers persons haue cunningly interposed themselues to deale as Factors and Brokers between the Merchant, Dra<g ref="char:EOLhyphen"/>per, and Clothier in the saide market, and by theyr in<g ref="char:EOLhyphen"/>direct meanes working aswell vpon the Buyer as vpon the Seller, do either much aduance or debase the price and value of the Cloth, so brought to the saide market at their pleasure, to the great preiudice and greeuance of both Merchant, Draper, and Clothyer: of which abuse, pra<g ref="char:EOLhyphen"/>ctise, and ill dealing of Factors and Broakers, the Clothyers of the Citie of Worcester, vnder the Common Seale of that Cittie, and the Clothyers of the Towne of Redding in the Coun<g ref="char:EOLhyphen"/>tie of Berks, haue greeuously complained and petitioned to the Court of Lord Maior and Al<g ref="char:EOLhyphen"/>dermen, for some redresse therein.</p>
+            <pb facs="tcp:185518:2"/>
+            <pb facs="tcp:185518:2"/>
+            <p>For reformation whereof, Bee it therefore enacted by the Right Honourable the Lord Maior, the Aldermen his Brethren, and the Commons in this present Common Councell as<g ref="char:EOLhyphen"/>sembled, and by the Authoritie of the same, That from and after the Feast of All-Saints next comming, no person or persons, shall deale or intermeddle in the saide Market place of Black-well-hall as a Common Broker or Factor, for or between the Clothyer, the Merchant, or Dra<g ref="char:EOLhyphen"/>per, or for or betweene the Merchant and Draper, for any Worcester or Redding Clothes, or other Clothes made in either of the Counties of Worcester or Berks; or take vpon him to sell any Clothes of either of the saide makings, other then the Clothyers of the said Counties, or their owne houshold seruants.</p>
+            <p>And if any person shall offend, contrarie to this Act, hee shall forfeite and loose the summe of fiue pounds for euerie Cloth so sold, contrarie to the intent of this Acte, the one halfe to bee employed to the vse of the poore Children harboured in Christs Hospitall, and the other halfe to him that shall first giue Information of the saide offence, to the Chamberlaine of the said Citie for the time being.</p>
+            <p>Which paine, penaltie, and summe of money to be forfeyted by vertue of this Act, shall bee recouered by and in the name of the Chamberlaine of this Citie for the time being in the kings Maiesties Court holden before the Lord Maior and Aldermen of the Citie of London, in the Chamber of the Guildhall of the said Citie, by Action, Bill, or Information, wherein no Es<g ref="char:EOLhyphen"/>soigne, Protection, or Wager of Law, shall be admitted or allowed for the Defendant. And if the suite shall passe for the Plaintiffe, hee shall recouer against the said Defendant, his ordina<g ref="char:EOLhyphen"/>rie Costs of suite. And after the recouerie had, the forfeyture so recouered, to be employed ac<g ref="char:EOLhyphen"/>cording to the true intent and meaning of this Act. And if the suit shall passe against the plain<g ref="char:EOLhyphen"/>tiffe, the defendant shall recouer his ordinary costs against the plaintiffe.</p>
+            <trailer>❧ God saue the King. ❧</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by William Iaggard, Printer to the Ho<g ref="char:EOLhyphen"/>nourable Citie of London.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
